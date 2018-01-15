@@ -1,0 +1,7 @@
+-   id: isort
+    name: isort
+    entry: isort
+    language: python
+    files: \.py$
+    args: []
+
