@@ -13,7 +13,7 @@ For isort: see https://github.com/timothycrosley/isort
 Add this to your `.pre-commit-config.yaml`:
 
 ```yaml
--   repo: git://github.com/pre-commit/mirrors-isort
+-   repo: https://github.com/pre-commit/mirrors-isort
     sha: ''  # Use the sha / tag you want to point at
     hooks:
     -   id: isort
