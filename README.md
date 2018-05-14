@@ -18,3 +18,10 @@ Add this to your `.pre-commit-config.yaml`:
     hooks:
     -   id: isort
 ```
+
+### classification of imports
+
+`isort` isn't always the best at classifying imports.
+
+You may find [seed-isort-config](https://github.com/asottile/seed-isort-config)
+useful!
