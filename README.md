@@ -14,7 +14,7 @@ Add this to your `.pre-commit-config.yaml`:
 
 ```yaml
 -   repo: https://github.com/pre-commit/mirrors-isort
-    sha: ''  # Use the sha / tag you want to point at
+    rev: ''  # Use the revision sha / tag you want to point at
     hooks:
     -   id: isort
 ```
