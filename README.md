@@ -1,3 +1,7 @@
+This mirror repository is deprecated, use [isort] directly.
+
+[isort]: https://github.com/timothycrosley/isort
+
 isort mirror
 ============
 
