@@ -1,6 +1,6 @@
 This mirror repository is deprecated, use [isort] directly.
 
-[isort]: https://github.com/timothycrosley/isort
+[isort]: https://github.com/PyCQA/isort
 
 isort mirror
 ============
@@ -9,7 +9,7 @@ Mirror of isort package for pre-commit.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
 
-For isort: see https://github.com/timothycrosley/isort
+For isort: see https://github.com/PyCQA/isort
 
 
 ### Using isort with pre-commit
